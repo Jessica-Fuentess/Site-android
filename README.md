@@ -69,5 +69,4 @@ Este projeto está licenciado sob a **Licença MIT** – sinta-se à vontade par
 
 ---
 
-✨ Obrigada por visitar este projeto! 
-Se tiver sugestões, ideias ou feedbacks, será um prazer conversar. 😊
+✨ Obrigada por visitar este projeto! Se tiver sugestões, ideias ou feedbacks, será um prazer conversar. 😊
