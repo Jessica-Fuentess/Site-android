@@ -8,7 +8,7 @@ Este é um projeto de site institucional e informativo sobre a história do **ma
 
 ## 🌐 Demonstração
 
-🔗 [Acesse o site](https://jessica-fuentess.github.io/site-android/)
+🔗 [Acesse o site](https://jessica-fuentess.github.io/Site-android/)
 
 ---
 
