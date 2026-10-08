@@ -54,9 +54,7 @@ O **Site Android** apresenta a história do mascote do sistema Android, com cont
 
 ## 👩‍💻 Autora
 
-Desenvolvido por **Jéssica Fuentes** 💜 
-
-Desenvolvedora Front-end em transição de carreira, com foco em criação de interfaces responsivas, acessíveis e modernas.
+Desenvolvido por **Jéssica Fuentes**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-fuentes/)  
 🔗 [GitHub](https://github.com/Jessica-Fuentess)
